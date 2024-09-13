@@ -11,7 +11,7 @@ the bachelor thesis *Classifying RGB Images with multi-colour Persistent
 Homology* , work you may have some problems if you are using Python3. 
 I have some troubles with [diamorse](https://github.com/AppliedMathematicsANU/diamorse) package, 
 that seems to be program for Python 2. I have changed a couple of bit to make it work in Python3 
-(`python3` branch at this [repo](https://github.com/rojizo/diamorse)).
+(`python3` branch of this [repo](https://github.com/rojizo/diamorse)).
 
 
 ## Some usual problems...
