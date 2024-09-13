@@ -20,5 +20,4 @@ Let us write here the problems we face when using the packages...
 
 * On Gudhi, you may encounter some problems related with LaTeX... You may need to install some LaTeX package on your system or
   disable LaTeX rendering altogether with `gudhi.persistence_graphical_tools._gudhi_matplotlib_use_tex=False` after importing gudhi,
-  ofcourse ([see here](https://gudhi.inria.fr/python/latest/installation.html))
-` 
+  ofcourse ([see here](https://gudhi.inria.fr/python/latest/installation.html)).
